@@ -18,4 +18,4 @@ yarn ios
 ```
 
 ## Screenshoot App
-![Simulator Screen Shot - XR - 2023-08-23 at 11 02 08](https://github.com/gilangprasetya/Phonebooks-ReactNative-Sequelize/assets/17922551/16960618-129d-4692-90f5-c6b526b59716)
+<img src="https://github.com/gilangprasetya/Phonebooks-ReactNative-Sequelize/assets/17922551/16960618-129d-4692-90f5-c6b526b59716" alt="Screenshoot App" width="300">
