@@ -6,12 +6,12 @@
 #FRONT-END
 - Using React Native
 
-## Project setup on server
+## Project setup on server (ORM)
 ```
 npm run dev
 ```
 
-## Project setup on client
+## Project setup on client (ClientPhonebooks)
 ```
 yarn start
 yarn ios
