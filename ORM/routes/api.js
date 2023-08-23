@@ -28,7 +28,7 @@ router.get('/phonebooks', async function (req, res, next) {
 
         // Menambahkan parameter sort dan filter ke dalam query
         const contacts = await models.api.findAll({
-            order: [[sortby, sort]], // Memastikan data diurutkan berdasarkan parameter yang diberikan
+            order: [[models.Sequelize.fn('LOWER', models.Sequelize.col(sortby)), sort]],
             offset: offset,
             limit: limit,
             where: searchParams, // Menggunakan filter jika diberikan
