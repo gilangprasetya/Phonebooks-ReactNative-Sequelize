@@ -18,6 +18,13 @@ yarn ios
 ```
 
 ## Screenshoot App
+- Create
+- Read
+- Update
+- Delete
+- Scrolling Pagination
+- Searching
+- Sorting
 
 <img src="https://github.com/gilangprasetya/Phonebooks-ReactNative-Sequelize/assets/17922551/16960618-129d-4692-90f5-c6b526b59716" alt="Screenshoot App" width="200">
 
